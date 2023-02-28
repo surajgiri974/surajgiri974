@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Android Application **Shield**
 
-- 🌱 I’m currently learning DevOPP**
+- 🌱 I’m currently learning **DevOPP**
 
 - 👨‍💻 All of my projects are available at [http://www.github.com/surajgiri974](http://www.github.com/surajgiri974)
 
