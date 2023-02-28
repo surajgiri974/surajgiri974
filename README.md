@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @surajgiri974
 - 👀 I’m interested in various programming languages
-- 🌱 I’m currently learning Data Structures
 - 💞️ I’m looking to collaborate with anyone 
 
 
