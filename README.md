@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Development**
 
-- 📫 How to reach me **surajgiri975@gmail.com**
+- 📫 How to reach me **surajgiri974@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
