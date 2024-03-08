@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [http://www.github.com/surajgiri974](http://www.github.com/surajgiri974)
 
-- 💬 Ask me about **Development**
+- 💬 Ask me about **Programming"" **&**  **Development**
 
 - 📫 How to reach me **surajgiri974@gmail.com**
 
