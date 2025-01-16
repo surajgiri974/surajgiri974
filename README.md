@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm surajgiri974</h1>
 <h3 align="center">Software Developer</h3>
 
-- 🔭 I’m currently working on React Applications **Geeta Automotive Expo & Shuttle-Hub**
+- 🔭 I’m currently working on Android Application & Spring Boot for **Appla Ghar**
 
 - 🌱 I’m currently learning **DevOPP**
 
